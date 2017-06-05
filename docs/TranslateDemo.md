@@ -1,4 +1,4 @@
-##TranslateDemo说明文档
+## TranslateDemo说明文档</br>
 TranslateDemo.jar可以直接运行、而且有可视化界面。</br>
 界面中有 **对话输入框、回答框、语义解析框。**</br>
 
@@ -10,7 +10,7 @@ TranslateDemo.jar可以直接运行、而且有可视化界面。</br>
 
 开发者可以通过自己的账号来更改所支持的内容，目前本Demo只支持关于翻译的相关语句。</br>
 
-##关于开发
+## 关于开发</br>
 TranslateDemo的源代码只是做示例展示，仅供参考。</br>
 
 源代码说明：</br>
@@ -25,7 +25,7 @@ TranslateDemo的源代码只是做示例展示，仅供参考。</br>
 >**NLPJSON.java** 里面是拿到语义返回JSON数据的关键字。</br>
 >**APIJSON.java** 里面是拿到翻译返回JSON数据的关键字；</br>
 
-##重要补充
+## 重要补充</br>
 >TranslateDemo中的 **GetModifier.java** 里面所使用到的调用语义API接口的关键信息，开发者需自行在[OLAMI官网](http://cn.olami.ai)注册生成并更换，这样开发者可以自己定义所需的语法。</br>
 >**TranslateByAPI.java** 里所使用到的调用翻译API接口的关键信息，开发者也需自行更换。如果发现有被乱用的现象，作者将关闭翻译API的接口。</br>
 
